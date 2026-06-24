@@ -1,4 +1,6 @@
-# Application-de-gestion-des-étudiants-StudentApp-(Version française)
+# Application-de-gestion-des-étudiants-StudentApp-
+    
+    Version française
 
 Bonjour ! Je suis un·e développeur·se en herbe passionné·e par la conception de logiciels propres et l'exploration des structures de données fondamentales en Python. Voici un aperçu de mes projets récents :
     1- StudentApp (Application de gestion académique) : Une application console complète en Python permettant aux enseignants et administrateurs de gérer les étudiants, les matières, les enseignants ainsi que la saisie des notes et le calcul de moyennes pondérées. Elle intègre des fonctionnalités d'import/export CSV et de statistiques.
@@ -6,7 +8,7 @@ Bonjour ! Je suis un·e développeur·se en herbe passionné·e par la conceptio
     2- Gestionnaire d'Étudiants (Structures de données) : Un projet rigoureux visant à implémenter un système de gestion complet (CRUD) basé sur une liste chaînée simple créée manuellement (sans utiliser les listes natives de Python). Ce projet inclut un algorithme de tri fusion adapté aux listes chaînées , une persistance des données au format JSON , des imports/exports CSV et une couverture de tests unitaires complète.
     Mes compétences : Python 3.x , Algorithmique & Structures de données , Programmation Orientée Objet (POO) , Tests unitaires.
 
-    # Application-de-gestion-des-étudiants-StudentApp-(version anglaise)
+    version anglaise
     
     Hello! I am an aspiring software developer focused on building clean, efficient applications and exploring core data structures using Python. Here are some of my recent projects:
     
