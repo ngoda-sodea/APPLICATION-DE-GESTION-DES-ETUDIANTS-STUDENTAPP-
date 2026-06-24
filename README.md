@@ -9,7 +9,7 @@ Bonjour ! Je suis un·e développeur·se en herbe passionné·e par la conceptio
     Mes compétences : Python 3.x , Algorithmique & Structures de données , Programmation Orientée Objet (POO) , Tests unitaires.
 
     version anglaise
-    
+
     Hello! I am an aspiring software developer focused on building clean, efficient applications and exploring core data structures using Python. Here are some of my recent projects:
     
     1- StudentApp (Academic Management System): A Python-based CLI application designed for teachers and administrators to manage students, courses, faculty members, and grades (including weighted average calculations). It features global statistics and CSV import/export capabilities.
